@@ -38,3 +38,15 @@ Augmentasi yang digunakan dalam data pelatihan mencakup normalisasi piksel gamba
 4. Setelah model dilatih, hasil model akan disimpan dalam bentuk file .h5
 5. Untuk melihat hasil akurasi model bisa menjalankan cell evaluasi model, confussion matrix, dan classification report.
 6. Untuk memastikan model dapat mengklasifikasi gambar bisa menjalankan cell terakhir (gambar diambil dari dataset test).
+
+## Kelompok 4
+- Alifio Nauval Priatmodjo (50421127)
+- Befon Mario Christmawan (50421271)
+- Ivanno Rifky Ali Raharjo (50421673)
+- Muhammad Zharfan Alfanso (51421100)
+
+Link GitHub Backend : [https://github.com/muhzarfan/back-end-rupa2]
+Link GitHub Frontend : [https://github.com/alifionauval/ruparupa]
+Link Figma : [https://www.figma.com/design/wm6Y63ngdAHnPUef59v5lz/Design?node-id=7-3&t=iD9N2lHIsPdQSDpY-1]
+Link Trello : [https://trello.com/invite/b/67820138bdd1937ea9a6411a/ATTI5edb9cd2b0486426f45cbe84bd94404eF282ED0A/kelompok-4-rpl-2]
+Link Google Docs Proposal Penawaran : [https://docs.google.com/document/d/1szpxZGRCdu1v95KaTYMj-LD0JaTX4u16k1wnWNui_K0/edit?usp=sharing]
